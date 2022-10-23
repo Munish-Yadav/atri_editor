@@ -4,15 +4,9 @@
       "id": "root",
       "name": "/",
       "parentId": ""
-    },
-    "b6edea9b-8ee2-4a4d-9ceb-8f02051f7733": {
-      "name": "atri",
-      "id": "b6edea9b-8ee2-4a4d-9ceb-8f02051f7733",
-      "parentId": "root"
     }
   },
   "pages": {
-    "home": "root",
-    "9d397f21-5016-4ea4-8901-d9d93799a791": "b6edea9b-8ee2-4a4d-9ceb-8f02051f7733"
+    "home": "root"
   }
 }

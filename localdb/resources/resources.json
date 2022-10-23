@@ -1,0 +1,35 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Pacifico",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');\n",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Pacifico",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=sherif&display=swap');\n",
+    "method": "css",
+    "imports": {
+      "fonts": []
+    }
+  }
+]

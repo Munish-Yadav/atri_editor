@@ -1,0 +1,10 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "9d397f21-5016-4ea4-8901-d9d93799a791": {
+    "name": "MunishYadav_assignment",
+    "route": "/atri/MunishYadav_assignment"
+  }
+}
